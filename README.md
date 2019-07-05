@@ -4,7 +4,9 @@ A cross platform components library for React, targetting react-native and react
 
 ## Start development
 
-Install dependencies with `npm ci`
+Install dependencies with `yarn install --frozen-lockfile`
+
+Link packages with each other with `npm run bootstrap`
 
 Start development server (storybook) `npm run storybook`
 
